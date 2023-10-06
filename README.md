@@ -1,5 +1,3 @@
-This is your prelim laboratory exam.
-
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+Name: Carlo Embuscado
+Course, Block & Year: BSIT 3-1
+Hobbies: Gym, guitar
