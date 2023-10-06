@@ -1,5 +1,3 @@
-This is your prelim laboratory exam.
-
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+___Vonn Howell Villaroman__
+___ BSIT 3-2 ___
+__21__
