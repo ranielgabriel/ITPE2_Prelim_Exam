@@ -1,5 +1,5 @@
-This is your prelim laboratory exam.
+Hello, I am Carl Jesus B. Lomaad
 
-Use everything you learned (if there is) in solving this repository.
+This is my Prelim Exam!
 
-Goodluck!
+Hope you have a good day!
