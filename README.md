@@ -1,5 +1,5 @@
-This is your prelim laboratory exam.
+Hello, My name is Reniel G. Manalo
 
-Use everything you learned (if there is) in solving this repository.
+From BSIT 3-2
 
-Goodluck!
+I like fries.
