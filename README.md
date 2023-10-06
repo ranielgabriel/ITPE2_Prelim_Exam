@@ -1,5 +1,4 @@
-This is your prelim laboratory exam.
-
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+Good evening, I'm Ramil Rodriguez Jr.
+An aspiring IT Professional exploring my options with different fields 
+as I study for a bachelor's degree at Wesleyan University - Philippines.
+Pleased to meet you!
